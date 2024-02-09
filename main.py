@@ -109,6 +109,6 @@ def guess_number(start_number):
       break
 
 
-start_number = 4421  # Example starting number
+start_number = 4634  # Example starting number
 keep_alive()
 guess_number(start_number)
